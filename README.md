@@ -21,8 +21,8 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 	<title>Page Title</title>
 </head>
 <body>
-	<h1>This is a Heading</h1>
-	<p>This is a paragraph.</p>
+	<h1>Alan Bota's Hello World</h1>
+	<p></p>
 </body>
 </html>
 ```
